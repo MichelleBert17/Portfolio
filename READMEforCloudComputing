@@ -1,0 +1,38 @@
+In this project, we were given initial code with a dev container and initial configuring files.
+
+We were tasked to "develop a comprehensive frontend solution for an E-Commerce platform. The application must be fully functional, responsive, and rigorously tested. It leverages modern tools and libraries such as Zustand for state management, React Query for data fetching, TailwindCSS for styling, and Vitest for testing. The completed solution supports seamless shopping experiences for users, including browsing products, managing shopping carts, viewing order histories, and updating profile information."
+
+This is a website for Mama Mia's Restaurant. I like restaurants and wanted to include pictures of yummy food.
+
+This project allows us to:
+
+- Browse products.
+- Manage shopping carts.
+- View order histories.
+- Update profile information.
+
+
+
+Screenshots of the project working are in the Screenshots folder.
+
+
+
+
+____________________
+To Run the Project:
+Install dependencies:
+npm install
+typescript
+zustand
+tailwind
+react query
+vitest
+
+
+
+
+
+Then, in the code\start\michelle-app folder, prompt npm run dev
+
+This should open in the local server  http://127.0.0.1:5174/
+
